@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 288"
+  short_description: "典藏徽记：上半保留原照，下半把主体收成古典研究用的知识徽章"
+  default_prompt: "Use $xxd-panel-288 to transform my photograph following the complete canonical source brief."
