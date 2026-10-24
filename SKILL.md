@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-288
-description: "Create XXD Panel 288 raster artwork: a faithful photograph paired with one small Neo-Renaissance research emblem, fine engraving line and parchment quiet. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-288 or asks for this 典藏徽记 style."
+description: "XXD Panel 288｜Codex Emblem: keeps the photo and reduces its subject to one small Neo-Renaissance research emblem, as if an early scholar had catalogued it — one outline, one structural relationship, one symbol, drawn in fine engraving lines and antique ink with slightly irregular hand-drawn contours, optionally with a halo, proportion lines, an axis, small geometric construction or a little classical ornament — on warm ivory and parchment with ochre, dark brown and ink black, plus sparing cobalt, vermilion or teal research marks, small in large whitespace with a short name, number or note like a museum label or old book index in a narrow classical typeface. Not a full manuscript page. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-288 or asks for a classical engraved emblem, codex-style scholarly mark or parchment archive logo from a photo."
 ---
 
 # XXD Panel 288

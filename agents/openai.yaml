@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 288"
-  short_description: "典藏徽记：上半保留原照，下半把主体收成古典研究用的知识徽章"
-  default_prompt: "Use $xxd-panel-288 to transform my photograph following the complete canonical source brief."
+  short_description: "典藏徽记：把照片主体收成一枚细钢笔刻线、羊皮纸色的古典研究徽章"
+  default_prompt: "Use $xxd-panel-288 to turn my photo into Codex Emblem artwork."

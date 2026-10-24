@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 288｜Codex Emblem: keeps the photo and reduces its subject to one small Neo-Renaissance research emblem, as if an early scholar had catalogued it — one outline, one structural relationship, one symbol, drawn in fine engraving lines and antique ink with slightly irregular hand-drawn contours, optionally with a halo, proportion lines, an axis, small geometric construction or a little classical ornament — on warm ivory and parchment with ochre, dark brown and ink black, plus sparing cobalt, vermilion or teal research marks, small in large whitespace with a short name, number or note like a museum label or old book index in a narrow classical typeface. Not a full manuscript page. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-288 or asks for a classical engraved emblem, codex-style scholarly mark or parchment archive logo from a photo.",
+  "short_description": "典藏徽记：把照片主体收成一枚细钢笔刻线、羊皮纸色的古典研究徽章",
+  "zh-CN": {
+    "name": "典藏徽记",
+    "tagline": "把照片主体收成一枚像古代学者记录过的、细刻线画在羊皮纸色上的研究徽章。",
+    "look": "原照片保留；主体只留一个轮廓、一组结构关系、一个象征和一个记忆点，用细钢笔刻线和古典墨线画出，边缘略不规则，有版画纹理和手工痕迹。旁边可加少量圆形光环、比例线、轴线、几何辅助结构或古典小纹样，但整体是一个独立符号，不是缩小的插画。底色是暖象牙、羊皮纸色，配赭石、深棕、墨黑，只用少量钴蓝、朱红或青绿作研究标记。徽记小、留白大，旁边一行细窄优雅的小字，像博物馆标签或古籍索引。",
+    "traits": ["古典线描", "知识徽章", "羊皮纸色", "博物馆标签", "极端留白"],
+    "good": [
+      "值得被研究和记录的对象：一枚贝壳、一只甲虫、一件古董、一株药草",
+      "有比例和结构感的建筑或器物：一座拱桥、一架天文仪、一把小提琴",
+      "想做成书籍封面徽章、收藏编号标记或博物馆周边的照片"
+    ],
+    "poor": [
+      "想要满版手稿、大量注释或完整写实描绘的需求",
+      "希望颜色鲜艳现代的用途，这里以羊皮纸和墨色为主",
+      "想要卡通、商业图标或科技 UI 感的需求"
+    ]
+  },
+  "en": {
+    "name": "Codex Emblem",
+    "tagline": "Reduces the subject of your photo to one small research emblem in fine engraved line on parchment tones.",
+    "look": "Your photo stays; the subject keeps only one outline, one structural relationship, one symbol and one memorable detail, drawn in fine pen-engraving and antique ink lines with slightly irregular edges, printmaking texture and visible handwork. A few halos, proportion lines, axes, geometric construction or small classical ornaments may be added, but the whole reads as a standalone symbol, not a shrunken illustration. The ground is warm ivory and parchment with ochre, dark brown and ink black, and only a little cobalt, vermilion or teal for research marks. The emblem is small in wide whitespace, with a line of narrow, elegant lettering like a museum label or an old book index.",
+    "traits": ["Classical line drawing", "Scholarly emblem", "Parchment tones", "Museum label", "Extreme whitespace"],
+    "good": [
+      "Objects worth studying and recording: a seashell, a beetle, an antique, a medicinal herb",
+      "Buildings or instruments with clear proportion and structure: an arched bridge, an astrolabe, a violin",
+      "Photos you want as a book-cover emblem, a collection catalogue mark or museum merchandise"
+    ],
+    "poor": [
+      "Requests for a full manuscript page, heavy annotation or a complete realistic drawing",
+      "Uses that need bright, modern colour, since parchment and ink dominate",
+      "Requests for cartoons, commercial icons or a tech-UI look"
+    ]
+  },
+  "ja": {
+    "name": "収蔵の紋章",
+    "tagline": "写真の主役を、古の学者が記録したような、羊皮紙色に細い彫り線で描いた研究の紋章にします。",
+    "look": "元の写真は残し、主役は輪郭ひとつ、構造の関係ひとつ、象徴ひとつ、記憶に残る点ひとつだけにして、細いペンの彫り線と古典的な墨線で描きます。縁は少し不揃いで、版画の質感と手仕事の跡が残ります。円い光輪、比例線、軸線、幾何学の補助線、小さな古典文様を少し添えることもありますが、全体は縮小したイラストではなく独立した記号です。地は温かなアイボリーと羊皮紙色に黄土、焦げ茶、墨黒を合わせ、コバルト、朱、ティールは研究の印としてわずかに使うだけです。紋章は小さく余白は大きく、博物館のラベルや古書の索引のような細身で優美な文字が一行添えられます。",
+    "traits": ["古典の線描", "知の紋章", "羊皮紙の色", "博物館のラベル", "大胆な余白"],
+    "good": [
+      "研究し記録する価値のある対象：貝殻、甲虫、骨董品、薬草",
+      "比率と構造がはっきりした建物や器具：アーチ橋、アストロラーベ、ヴァイオリン",
+      "本の表紙の紋章、収蔵番号のマーク、博物館グッズにしたい写真"
+    ],
+    "poor": [
+      "ページ全面の手稿、たくさんの注記、完全な写実描写を求める場合",
+      "鮮やかで現代的な色が必要な用途（羊皮紙と墨の色が中心です）",
+      "キャラクター、商業アイコン、テック系UIの雰囲気を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "소장 문장",
+    "tagline": "사진 속 주인공을 옛 학자가 기록한 듯, 양피지 색 위에 가는 조각 선으로 그린 연구 문장으로 만듭니다.",
+    "look": "원본 사진은 남기고, 주인공은 윤곽 하나, 구조 관계 하나, 상징 하나, 기억할 점 하나만 남겨 가는 펜 조각 선과 고전적인 먹선으로 그립니다. 가장자리는 조금 불규칙하고 판화 질감과 손작업 흔적이 남습니다. 둥근 후광, 비례선, 축선, 기하학 보조선, 작은 고전 문양을 조금 더할 수 있지만, 전체는 축소된 일러스트가 아니라 독립된 심벌입니다. 바탕은 따뜻한 상아색과 양피지 색에 황토, 짙은 갈색, 먹색을 쓰고, 코발트, 주홍, 청록은 연구 표시로만 조금 씁니다. 문장은 작고 여백은 넓으며, 박물관 라벨이나 옛 책 색인 같은 가늘고 우아한 글자가 한 줄 붙습니다.",
+    "traits": ["고전 선화", "지식의 문장", "양피지 색", "박물관 라벨", "극단적 여백"],
+    "good": [
+      "연구하고 기록할 만한 대상: 조개껍데기, 딱정벌레, 골동품, 약초",
+      "비례와 구조가 뚜렷한 건물이나 기구: 아치교, 아스트롤라베, 바이올린",
+      "책 표지 문장, 소장품 번호 표시, 박물관 굿즈로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "화면 가득한 필사본, 많은 주석, 완전한 사실 묘사를 원하는 경우",
+      "선명하고 현대적인 색이 필요한 용도(양피지와 먹색이 중심입니다)",
+      "만화풍, 상업 아이콘, 테크 UI 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "شعار المخطوطة",
+    "tagline": "يختصر العنصر الرئيسي في صورتك في شعار بحثي صغير بخطوط محفورة رفيعة على ألوان الرق.",
+    "look": "تبقى صورتك، ولا يبقى من العنصر إلا خط خارجي واحد وعلاقة بنيوية واحدة ورمز واحد وتفصيلة تُذكر، تُرسم بخطوط قلم رفيعة كالحفر وحبر عتيق، بحواف غير منتظمة قليلاً وملمس الطباعة الفنية وأثر اليد. قد تُضاف هالة أو خطوط نِسب أو محور أو إنشاء هندسي أو زخرفة كلاسيكية صغيرة، لكن المجموع رمز مستقل لا رسم مصغّر. الخلفية عاجية دافئة بلون الرق مع المغرة والبني الداكن والأسود الحبري، ولا يُستعمل الكوبالت أو القرمزي أو الأزرق المخضر إلا قليلاً كعلامات بحث. الشعار صغير وسط فراغ واسع، ومعه سطر بحروف ضيقة أنيقة كبطاقة متحف أو فهرس كتاب قديم.",
+    "traits": ["رسم خطي كلاسيكي", "شعار معرفي", "ألوان الرق", "بطاقة متحف", "فراغ واسع جداً"],
+    "good": [
+      "أشياء تستحق الدراسة والتوثيق: صدفة، خنفساء، تحفة قديمة، عشبة طبية",
+      "مبانٍ أو أدوات واضحة النسب والبنية: جسر مقوّس، أسطرلاب، كمان",
+      "صور تريدها شعاراً لغلاف كتاب أو علامة فهرسة لمجموعة أو تذكاراً لمتحف"
+    ],
+    "poor": [
+      "طلب صفحة مخطوطة كاملة أو حواشٍ كثيرة أو رسم واقعي تام",
+      "استخدامات تحتاج ألواناً زاهية حديثة، فالغلبة للرق والحبر",
+      "طلب رسوم كرتونية أو أيقونات تجارية أو مظهر واجهات تقنية"
+    ]
+  }
+}
